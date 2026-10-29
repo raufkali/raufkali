@@ -65,9 +65,36 @@ My approach is simple: understand the problem, design the right solution, write 
 ### Desktop Development & Programming
 <img src="https://skillicons.dev/icons?i=electron,python,c,cpp" alt="Desktop development and programming languages" />
 
-### Machine Learning & Data Science
-<img src="https://skillicons.dev/icons?i=python,opencv" alt="Python and OpenCV" />
+<div align="center">
 
+### 🤖 Machine Learning & Data Science
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+
+</div>
+
+**Libraries and tools**
+
+- **NumPy:** Numerical computing, arrays, vectorized operations and mathematical operations.
+- **Pandas:** Data manipulation, DataFrames, data cleaning, missing values and preprocessing.
+- **Matplotlib:** Data visualization, plots and model evaluation charts.
+- **Seaborn:** Statistical visualization and exploratory data analysis.
+- **scikit-learn:** Data preprocessing, train-test splitting, classification, regression, pipelines and model evaluation.
+- **Jupyter Notebook:** Interactive experimentation, analysis and model development.
+- **OpenCV:** Image processing and computer vision fundamentals.
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,aws" alt="Development tools and platforms" />
 
