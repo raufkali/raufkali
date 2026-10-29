@@ -86,15 +86,6 @@ My approach is simple: understand the problem, design the right solution, write 
 
 </div>
 
-**Libraries and tools**
-
-- **NumPy:** Numerical computing, arrays, vectorized operations and mathematical operations.
-- **Pandas:** Data manipulation, DataFrames, data cleaning, missing values and preprocessing.
-- **Matplotlib:** Data visualization, plots and model evaluation charts.
-- **Seaborn:** Statistical visualization and exploratory data analysis.
-- **scikit-learn:** Data preprocessing, train-test splitting, classification, regression, pipelines and model evaluation.
-- **Jupyter Notebook:** Interactive experimentation, analysis and model development.
-- **OpenCV:** Image processing and computer vision fundamentals.
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,aws" alt="Development tools and platforms" />
 
