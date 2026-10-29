@@ -1,113 +1,128 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C0FF&center=true&vCenter=true&width=700&lines=Rauf+Ahmad;MERN+Stack+Web+Developer;Desktop+Application+Engineer;AI+%26+Machine+Learning+Enthusiast" alt="Typing SVG" />
+ <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C0FF&center=true&vCenter=true&width=750&lines=Rauf+Ahmad;Software+Engineer;MERN+Stack+%7C+Desktop+Applications;Machine+Learning+%26+AI+Engineering" alt="Typing SVG" />
+
+<p>
+  <b>Software Engineer | Full-Stack Development | Machine Learning & AI</b>
+</p>
+
+<p>
+  Building scalable software, intelligent applications, and practical solutions to real-world problems.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/BS%20Computer%20Science-Graduated-0A66C2?style=for-the-badge" alt="Computer Science Graduate" />
+  <img src="https://img.shields.io/badge/CGPA-3.88%2F4.00-16A34A?style=for-the-badge" alt="CGPA 3.88 out of 4.00" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-7C3AED?style=for-the-badge" alt="Machine Learning" />
+</p>
+
+<p>
+  <a href="https://github.com/raufkali">
+    <img src="https://img.shields.io/badge/GitHub-raufkali-181717?style=flat&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/rufiii">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ahmadraufbd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-## ABOUT ME
+## 👨‍💻 About Me
 
-Rauf Ahmad is a Computer Science student and full-stack software engineer from Pakistan, specializing in building intelligent web and desktop applications. With a focus on clean architecture and user-centric design, I approach development as a craft—combining technical expertise with creative problem-solving to deliver scalable, meaningful software solutions.
+I'm **Rauf Ahmad**, a Computer Science graduate from Pakistan with a **CGPA of 3.88/4.00**, passionate about software engineering, intelligent systems, and continuous technical growth.
 
-Driven by innovation and continuous learning, I balance analytical thinking with creative implementation to transform complex requirements into elegant applications.
+My background combines full-stack web development, cross-platform desktop engineering, database design, and software architecture. I enjoy transforming complex requirements into reliable, maintainable applications that solve practical problems.
 
----
+I'm also expanding my expertise in **Machine Learning and Artificial Intelligence**, with an interest in building data-driven systems and integrating intelligent capabilities into real-world software.
 
-## TECHNOLOGY STACK
+My approach is simple: understand the problem, design the right solution, write clean code, and keep improving.
 
-<p align="center">  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,electron,python,c,cpp,mysql,linux,git,postman,aws,opencv,bootstrap,bash,canva," />  
-</p>
-
-**Core Competencies:**
-- Frontend: React, Next.js, Bootstrap
-- Backend: Node.js, Express.js
-- Databases: MongoDB, MySQL
-- Desktop: Electron with React
-- AI/ML: Python, OpenCV
-- DevOps: AWS, Linux, Git
+- 🎓 **Education:** BS Computer Science — CGPA 3.88/4.00
+- 💻 **Core expertise:** Full-stack software engineering and application development
+- 🌐 **Web development:** MERN Stack, React, Next.js, Node.js and Express.js
+- 🖥️ **Desktop engineering:** Electron, React and local database integration
+- 🤖 **AI/ML learning:** Machine Learning with Python, data analysis and model development
+- ⚙️ **Additional interests:** AI agents, workflow automation, API integrations and intelligent applications
+- 🚀 **Mission:** Build useful software while growing into an AI-focused software engineer
 
 ---
 
-## WHAT I BUILD
+## 🛠️ Technology Stack
 
-**Web Applications**  
-Full-stack MERN applications designed with scalability and user experience at the core. End-to-end solutions spanning database design, API architecture, and responsive frontend interfaces.
+<div align="center">
 
-**Desktop Applications**  
-Cross-platform desktop solutions built with Electron and React, leveraging inter-process communication and local data management for rich offline capabilities.
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap" alt="Frontend technologies" />
 
-**Intelligent Systems**  
-AI and machine learning integrations that enhance user experience and operational efficiency—from automated workflows to intelligent assistants embedded within larger ecosystems.
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend and database technologies" />
 
-**Role-Based Platforms**  
-Complex multi-user systems with fine-grained access control. Example: Student Management System featuring separate dashboards for administrators, educators, and students, each with purpose-built functionality.
+### Desktop Development & Programming
+<img src="https://skillicons.dev/icons?i=electron,python,c,cpp" alt="Desktop development and programming languages" />
 
-**Financial & Accounting Tools**  
-Custom ledger systems and transaction engines managing multi-party accounting flows, including complex scenarios such as proxy transactions and balance reconciliation across multiple accounts.
+### Machine Learning & Data Science
+<img src="https://skillicons.dev/icons?i=python,opencv" alt="Python and OpenCV" />
 
----
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,postman,aws" alt="Development tools and platforms" />
 
-## GITHUB STATISTICS
+</div>
 
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=raufkali&theme=neon-dark&hide_border=true" width="48%" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raufkali&layout=compact&theme=radical&hide_border=true" width="48%" />  
-</p>  
+### Core Competencies
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=raufkali&show_icons=true&theme=radical&hide_border=true" width="100%" />  
-</p>
-
----
-
-## KEY ACHIEVEMENTS
-
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=raufkali&theme=matrix&no-frame=true&margin-w=10&margin-h=10" />  
-</p>
-
-- Architected and implemented enterprise-grade role-based access control systems with multi-tenant dashboards and granular permission management.
-
-- Engineered a production-ready multi-party transaction processing engine capable of handling complex ledger operations and proxy transaction workflows.
-
-- Established robust integration patterns between local databases and Electron-based desktop applications using secure IPC protocols.
-
-- Continuously expanding expertise in machine learning applications, designing frameworks for seamless AI integration into existing web and desktop ecosystems.
+| Area | Technologies and Skills |
+|---|---|
+| Frontend | React, Next.js, JavaScript, HTML, CSS, Bootstrap |
+| Backend | Node.js, Express.js, REST APIs, authentication and authorization |
+| Databases | MongoDB, MySQL, Firebase, SQLite |
+| Desktop | Electron, React, secure IPC, offline-first applications |
+| Machine Learning | Python, NumPy, pandas, Matplotlib, scikit-learn |
+| Computer Vision | OpenCV |
+| Software Engineering | CRUD systems, RBAC, middleware, API integration, modular architecture |
+| Tools | Git, GitHub, Linux, Postman |
+| AI Integration | LLM APIs, intelligent assistants, workflow automation |
 
 ---
 
-## CONNECT
+## 🚀 What I Build
 
-<p align="center">  
-  <a href="https://linkedin.com/in/rufiii" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
-  <a href="mailto:ahmadraufbd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>  
-  <a href="https://github.com/raufkali" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>  
-</p>
+### 🌐 Full-Stack Web Applications
 
----
+End-to-end web applications with responsive interfaces, secure backend services, database integration, and maintainable architecture.
 
-## PROFESSIONAL PHILOSOPHY
+**Areas of focus:** MERN applications, Next.js platforms, REST APIs, authentication, authorization, and data-driven dashboards.
 
-*Code is communication. Build to be understood. Iterate toward elegance. Solve real problems with genuine craft.*
+### 🖥️ Cross-Platform Desktop Applications
 
-<p align="center">  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer workspace animation" />  
-</p>
+Desktop software built with Electron and React, including offline-capable applications, local data management, and communication between the user interface and native processes.
 
----
+**Areas of focus:** Secure IPC, local databases, desktop productivity tools, and offline-first systems.
 
-## ROADMAP
+### 🤖 Machine Learning & Intelligent Applications
 
-- **Advanced Machine Learning**: Deep specialization in ML frameworks and algorithms, with focus on production-grade implementations and integration patterns.
+Developing practical Machine Learning skills and exploring how predictive models can solve real problems and improve software capabilities.
 
-- **Open Source Contributions**: Development and release of a multi-party transaction ledger library to streamline complex financial operations for the development community.
+**Areas of focus:** Data preprocessing, exploratory data analysis, supervised learning, model evaluation, and integrating trained models into applications.
 
-- **Mobile Expansion**: Companion mobile applications for existing desktop systems, maintaining architectural consistency across web, desktop, and mobile platforms.
+### ⚙️ AI Agents & Automation
 
-- **Technical Leadership**: Publishing in-depth technical articles and case studies on full-stack architecture, desktop application patterns, and AI integration strategies.
+Building software workflows that combine APIs, language models, and automation to reduce repetitive tasks and deliver useful outcomes.
 
----
+**Areas of focus:** LLM integration, tool-connected workflows, automated content generation, and intelligent application features.
 
-<p align="center">
-Explore the repository. Collaborate on interesting problems. Let's build something significant together.
-</p>
+### 🔐 Role-Based & Multi-User Systems
+
+Designing applications with distinct user roles, granular permissions, and tailored dashboards.
+
+**Areas of focus:** Authentication, role-based access control, middleware, multi-user workflows, and administrative platforms.
+
+### 💳 Financial & Accounting Applications
+
+Implementing transaction-oriented applications with structured records, ledger operations, reconciliation, and clear separation of business logic.
+
+**Areas
